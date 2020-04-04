@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Education_Iterration_1</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Open Url - Orange HRM Url Invoked Successfully </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_32_141 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_32_141 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_32_847_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter user Name</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_33_370 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_33_370 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_33_857_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter Password</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_205 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_205 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_34_672_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;4</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Click on Sign In</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_727 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_727 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_35_183_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;5</center> </th> <th width="450px" ><center><b><font color='black'>   Education Page Details</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_40_725 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_40_725 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_41_112_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Education_Iterration_2</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Education Page Details</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_43_956 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_43_956 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_44_340_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   HomePage - Logout</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_44_673 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_44_673 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_45_096_AM</center></th>  </tr>      ]]>
+    </line>
+    <line>
+      <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   After Click on Logout- Logged out Succefully</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_46_876 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_46_876 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_47_282_AM</center></th>  </tr>      ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-03-24T08:53:12 IST" name="Suite" finished-at="2020-03-24T08:53:48 IST" duration-ms="35822">
+    <groups>
+    </groups>
+    <test started-at="2020-03-24T08:53:12 IST" name="TC01_Add_Education" finished-at="2020-03-24T08:53:48 IST" duration-ms="35822">
+      <class name="TestCases.TC01_Add_Education">
+        <test-method is-config="true" signature="CreateHTML(java.lang.String)[pri:0, instance:TestCases.TC01_Add_Education@47ef079e]" started-at="2020-03-24T08:53:12 IST" name="CreateHTML" finished-at="2020-03-24T08:53:26 IST" duration-ms="13829" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateHTML -->
+        <test-method signature="Nationality_call_allmethods(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.TC01_Add_Education@47ef079e]" started-at="2020-03-24T08:53:28 IST" name="Nationality_call_allmethods" data-provider="TC01_Add_Nationality1" finished-at="2020-03-24T08:53:41 IST" duration-ms="12530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mexicans127]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Education_Iterration_1</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Open Url - Orange HRM Url Invoked Successfully </b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_32_141 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_32_141 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_32_847_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter user Name</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_33_370 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_33_370 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_33_857_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Enter Password</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_205 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_205 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_34_672_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;4</center> </th> <th width="450px" ><center><b><font color='black'>   Login Page - Click on Sign In</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_727 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_34_727 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_35_183_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;5</center> </th> <th width="450px" ><center><b><font color='black'>   Education Page Details</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_40_725 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_1_2020_Mar_24_8_53_28_622_AM/24_Mar_2020 8_53_40_725 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_41_112_AM</center></th>  </tr>      ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nationality_call_allmethods -->
+        <test-method signature="Nationality_call_allmethods(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.TC01_Add_Education@47ef079e]" started-at="2020-03-24T08:53:41 IST" name="Nationality_call_allmethods" data-provider="TC01_Add_Nationality1" finished-at="2020-03-24T08:53:44 IST" duration-ms="3222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mexicans128]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<table> <tr >  <img   style="border:1px solid black;"      src="C:\HTML Report\HtmlTemplates\Logo.JPEG"></tr><tr   ><center><font color="red"  size="15" >TC01_Add_Education_Iterration_2</font></center></tr><tr bgcolor="#9370DB"> <th width="100px"> <center><font color="white"  size="4" >Steps</font></center><font color="white"  size="4" ></font></center> </th> <th width="450px" ><center><font color="white"  size="4" >Details </font> </center></th> <th width="100px" ><center><font color="white"  size="4" >Status</font></center></th>  <th  width="250px"  ><center><font color="white"  size="4" >Screen Shots</font></center></th> <th width="250px"  ><center><font color="white"  size="4" >Date & Time</font></center></th>  </tr>       ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;1</center> </th> <th width="450px" ><center><b><font color='black'>   Education Page Details</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_43_956 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_43_956 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_44_340_AM</center></th>  </tr>      ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Nationality_call_allmethods -->
+        <test-method is-config="true" signature="CloseHtml()[pri:0, instance:TestCases.TC01_Add_Education@47ef079e]" started-at="2020-03-24T08:53:44 IST" name="CloseHtml" finished-at="2020-03-24T08:53:48 IST" duration-ms="4235" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ <tr bgcolor="#ddd"> <th width="100px"> <center>Step&nbsp;2</center> </th> <th width="450px" ><center><b><font color='black'>   HomePage - Logout</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_44_673 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_44_673 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_45_096_AM</center></th>  </tr>      ]]>
+            </line>
+            <line>
+              <![CDATA[ <tr bgcolor="#eee"> <th width="100px"> <center>Step&nbsp;3</center> </th> <th width="450px" ><center><b><font color='black'>   After Click on Logout- Logged out Succefully</b> </font></center></th> <th width="100px" ><center><img src='file:///C:\HTML Report\HtmlTemplates\passed.ico'    +     "width="30" + height="30"></img></center></th>  <th  width="250px"  ><center><a href=C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_46_876 AM.png target="popup" onclick="window.open('C:/HTML Report/test-output/TempScreenShots/TC01_Add_Education_Iterration_2_2020_Mar_24_8_53_41_126_AM/24_Mar_2020 8_53_46_876 AM.png','popup','width=600,height=600'); return false;"> ScreenShot</a> </center></th> <th width="250px"  ><center>2020_Mar_24_8_53_47_282_AM</center></th>  </tr>      ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CloseHtml -->
+      </class> <!-- TestCases.TC01_Add_Education -->
+    </test> <!-- TC01_Add_Education -->
+  </suite> <!-- Suite -->
+</testng-results>
