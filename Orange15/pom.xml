@@ -242,7 +242,7 @@ https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java-->
 <dependency>
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
-    <version>8.0.19</version>
+    <version>8.0.28</version>
 </dependency>
 
 
